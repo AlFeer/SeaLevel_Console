@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zkstLZt8GVngJB40VDs6BEJZnkme1XBFXb6boNCX+OTnfGvM5MktdDD8JV+Jixu1mEj/Hl6WL7nNHTYZwn/PDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\SeaTask\\SeaTask\\SeaTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
